@@ -10,7 +10,7 @@ My journey into cibersecurity started the moment I entered the world of IT. I in
 
 | Skill                                 | Associated Project                                |
 | ------------------------------------- | ------------------------------------------------- |
-| Offensive AD laboratory (in progress) | <a href="https://github.com/Hector423">AD Lab</a> |
+| Offensive AD laboratory (in progress) | <a href="https://github.com/Hector423/AD-Security-Assessment-Lab.git">AD Lab</a> |
 
 ## Tools
 
