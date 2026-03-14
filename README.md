@@ -30,7 +30,7 @@ My journey into cibersecurity started the moment I entered the world of IT. I in
 
 <div>
 <a href="https://certs.ine.com/a894e629-6a5a-4e0b-a24b-c24fbda04320#acc.79DKBoW6">
-<img src="https://img.shields.io/badge/-eJPT-000000?&style=for-the-badge&logo=elearnsecurity&logoColor=white" />
+<img src="eJPT-badge.png" width="150" alt="eJPT certification" />
 </a>
 </div>
 
