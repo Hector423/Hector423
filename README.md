@@ -1,6 +1,7 @@
 # Hello, I'm Héctor
 
 <a href="https://www.linkedin.com/in/hector-vallve-gomez/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://hector423.github.io/"><img src="https://img.shields.io/badge/My%20portfolio-20B2AA?style=for-the-badge"/></a>
 
 I am a cybersecurity enthusiast focused on red team doing personal security projects and offensive labs.
 
